@@ -1,12 +1,19 @@
-## Hi there 👋
+# Welcome to the Research & Development Squadron :rocket:
 
-<!--
+Research & Development Squadron is the special unit which does sorties and dangerous researchments in the field of monads :rofl:. 
 
-**Here are some ideas to get you started:**
+Squadron call signs
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+* Roody - https://github.com/majorkik
+* Booby - https://github.com/bobakxd
+
+## Future plans
+
+> It doesn't matter who we are. What matters is our plan.
+
+*Bane in The Dark Knight Rises*
+
+The special unit should research the following:
+
+* Design principles and caveats of different programming languages
+* Computers architecture and CPU emulators
